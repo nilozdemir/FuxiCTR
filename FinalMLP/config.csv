@@ -1,0 +1,2 @@
+ 20250112-133743,[command] python run_expid.py --expid FinalMLP_test --gpu 0,[exp_id] FinalMLP_test,[dataset_id] tiny_npz,[train] N.A.,[val] logloss: 0.685982 - AUC: 0.908854,[test] logloss: 0.685982 - AUC: 0.908854
+ 20250112-151401,[command] python run_expid.py --expid FinalMLP_test --gpu 0,[exp_id] FinalMLP_test,[dataset_id] tiny_npz,[train] N.A.,[val] logloss: 0.685982 - AUC: 0.908854,[test] logloss: 0.685982 - AUC: 0.908854
